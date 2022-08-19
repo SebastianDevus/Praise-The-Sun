@@ -1,3 +1,1 @@
-# Teste Frontend
-Primeira aula de frontend em webdev
-Não tenha esperanças kkkkkkkkkkkkkk
+Uma aula de frontend que eu transformei em um puro shitpost
